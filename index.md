@@ -21,7 +21,7 @@
 
 ---
 [PermanentPOS (VB.NET)](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/permanent_pos.png?raw=true"/>
 
 ---
 [Raspberry Pi Projects (Android Studio, TensorFlow)](http://example.com/)
