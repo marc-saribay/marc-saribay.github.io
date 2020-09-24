@@ -4,7 +4,7 @@
 
 ### Special Problem - BS Mathematics 
 
-[Combinatorics Kit Plus (VB)](/sample_page)
+[Combinatorics Kit Plus (VB)](/pdf/sample_presentation.pdf)
 <img src="images/combinatorics_tutor.png?raw=true"/>
 <img src="images/combinatorics_kit.png?raw=true"/>
 
@@ -12,7 +12,7 @@
 
 ### Side Projects
 
-[APESYS (VB.NET)](/pdf/sample_presentation.pdf)
+[APESYS (VB.NET)](/sample_page)
 <img src="images/apesys.png?raw=true"/>
 
 ---
