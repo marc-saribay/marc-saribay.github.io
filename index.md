@@ -47,7 +47,7 @@
 - [Quadratic Equation Calculator (VB)](http://example.com/)
 <img src="images/quadcalc.png?raw=true"/>
 
-- [SuddenLimit 2 (VB)](http://example.com/)
+- [SuddenLimit 2 Game (VB)](http://example.com/)
 <img src="images/suddenlimit2.png?raw=true"/>
 
 - [Java Projects](http://example.com/)
