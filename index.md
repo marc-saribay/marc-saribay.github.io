@@ -4,7 +4,7 @@
 
 ### Special Problem - BS Mathematics 
 
-[Combinatorics Kit Plus (VB)](/pdf/sample_presentation.pdf)
+[Combinatorics Kit Plus (VB)](/pdf/combinatorics_kit_plus.pdf)
 <img src="images/combinatorics_tutor.png?raw=true"/>
 <img src="images/combinatorics_kit.png?raw=true"/>
 
