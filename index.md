@@ -16,7 +16,7 @@
 <img src="images/apesys.png?raw=true"/>
 
 ---
-[Finance System (PHP - Laravel)](http://example.com/)
+[Finance System (PHP - Laravel, Bootstrap)](http://example.com/)
 <img src="images/finance.png?raw=true"/>
 
 ---
@@ -26,6 +26,16 @@
 ---
 [Raspberry Pi Projects (Android Studio, TensorFlow)](http://example.com/)
 <img src="images/raspberrypi.png?raw=true"/>
+
+---
+
+### Work Projects
+
+- [Avia FileLoaders (C# to Java Springboot port, PCF, Jenkins)](http://example.com/)
+- [API Integration (IBM DataPower, IBM API Connect)](http://example.com/)
+- [Shake N Scan Web (Java/J2EE)](http://example.com/)
+- [Starbucks GUI Self Service (PHP, MySQL)](http://example.com/)
+- [Tax Change Web Utility (Perl-CGI)](http://example.com/)
 
 ---
 
@@ -49,10 +59,6 @@
 
 - [SuddenLimit 2 Game (VB)](http://example.com/)
 <img src="images/suddenlimit2.png?raw=true"/>
-
-- [Java Projects](http://example.com/)
-- [PHP Projects](http://example.com/)
-- [Perl-CGI Projects](http://example.com/)
 
 ---
 
