@@ -36,6 +36,7 @@
 
 - [Recursive Difference Analysis (VB)](http://example.com/)
 <img src="images/recursive_diff.png?raw=true"/>
+<img src="images/bifurcation.png?raw=true"/>
 
 - [Number Guess (VB)](http://example.com/)
 <img src="images/numguess.png?raw=true"/>
