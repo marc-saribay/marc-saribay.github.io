@@ -31,6 +31,9 @@
 
 ### More Projects
 
+- [SemPlanner SE](http://example.com/)
+<img src="images/semplanner_se.png?raw=true"/>
+
 - [Java Projects](http://example.com/)
 - [PHP Projects](http://example.com/)
 - [Perl-CGI Projects](http://example.com/)
