@@ -4,7 +4,7 @@
 
 ### Special Problem - BS Mathematics 
 
-[Combinatorics Kit Plus (VB)](/pdf/combinatorics_kit_plus.pdf)
+[Combinatorics Kit Plus (VB, MS Access)](/pdf/combinatorics_kit_plus.pdf)
 <img src="images/combinatorics_tutor.png?raw=true"/>
 <img src="images/combinatorics_kit.png?raw=true"/>
 
@@ -12,15 +12,15 @@
 
 ### Side Projects
 
-[APESYS (VB.NET)](/sample_page)
+[APESYS (VB.NET, MSSQL Server)](/sample_page)
 <img src="images/apesys.png?raw=true"/>
 
 ---
-[Finance System (PHP - Laravel, Bootstrap)](http://example.com/)
+[Finance System (PHP - Laravel, MySQL, Bootstrap)](http://example.com/)
 <img src="images/finance.png?raw=true"/>
 
 ---
-[PermanentPOS (VB.NET)](http://example.com/)
+[PermanentPOS (VB.NET, MSSQL Server)](http://example.com/)
 <img src="images/permanent_pos.png?raw=true"/>
 
 ---
@@ -31,8 +31,8 @@
 
 ### Work Projects
 
-- [Avia FileLoaders (C# to Java Springboot port, PCF, Jenkins)](http://example.com/)
-- [API Integration (IBM DataPower, IBM API Connect)](http://example.com/)
+- [Avia FileLoaders (C# to Java Springboot port, PCF, Jenkins, MSSQL Server)](http://example.com/)
+- [API Integration (IBM DataPower, IBM API Connect, Shell Scripting, REST API)](http://example.com/)
 - [Shake N Scan Web (Java/J2EE)](http://example.com/)
 - [Starbucks GUI Self Service (PHP, MySQL)](http://example.com/)
 - [Tax Change Web Utility (Perl-CGI)](http://example.com/)
