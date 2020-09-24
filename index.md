@@ -31,7 +31,7 @@
 
 ### More Projects
 
-- [SemPlanner SE](http://example.com/)
+- [SemPlanner SE (VB)](http://example.com/)
 <img src="images/semplanner_se.png?raw=true"/>
 
 - [Java Projects](http://example.com/)
