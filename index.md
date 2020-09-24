@@ -13,7 +13,7 @@
 ### Side Projects
 
 [APESYS (VB.NET)](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/apesys.png?raw=true"/>
 
 ---
 [PermanentPOS (VB.NET)](http://example.com/)
