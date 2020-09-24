@@ -5,7 +5,8 @@
 ### Special Problem - BS Mathematics 
 
 [Combinatorics Kit Plus (VB)](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/combinatorics_tutor.png?raw=true"/>
+<img src="images/combinatorics_kit.png?raw=true"/>
 
 ---
 
