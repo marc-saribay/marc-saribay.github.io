@@ -16,6 +16,10 @@
 <img src="images/apesys.png?raw=true"/>
 
 ---
+[Finance System (PHP - Laravel)](http://example.com/)
+<img src="images/finance.png?raw=true"/>
+
+---
 [PermanentPOS (VB.NET)](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -23,7 +27,6 @@
 
 ### More Projects
 
-- [Finance System (PHP - Laravel)](http://example.com/)
 - [Raspberry Pi Projects](http://example.com/)
 - [Java Projects](http://example.com/)
 - [PHP Projects](http://example.com/)
