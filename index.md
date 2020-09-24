@@ -34,6 +34,21 @@
 - [SemPlanner SE (VB)](http://example.com/)
 <img src="images/semplanner_se.png?raw=true"/>
 
+- [Recursive Difference Analysis (VB)](http://example.com/)
+<img src="images/recursive_diff.png?raw=true"/>
+
+- [Number Guess (VB)](http://example.com/)
+<img src="images/numguess.png?raw=true"/>
+
+- [Numerical Integration Calculator (VB)](http://example.com/)
+<img src="images/num_integration.png?raw=true"/>
+
+- [Quadratic Equation Calculator (VB)](http://example.com/)
+<img src="images/quadcalc.png?raw=true"/>
+
+- [SuddenLimit 2 (VB)](http://example.com/)
+<img src="images/suddenlimit2.png?raw=true"/>
+
 - [Java Projects](http://example.com/)
 - [PHP Projects](http://example.com/)
 - [Perl-CGI Projects](http://example.com/)
