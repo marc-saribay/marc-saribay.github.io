@@ -5,10 +5,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   IT professional with over 15 years of work experience as a Programmer Analyst and Software Engineer. 
   <br><br>
   Performs design and development work on complex software development projects and offers technical solutions on application issues. Competent in programming on several programming languages across different platforms.
-  <!-- <br><br> -->
-  <!-- <a href="https://www.linkedin.com/in/marc-saribay-40057717b/">View My LinkedIn Profile</a> -->
-  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="marc-saribay-40057717b"><a class="LI-simple-link" href='https://ph.linkedin.com/in/marc-saribay-40057717b?trk=profile-badge'>Marc Saribay</a></div>
+  <br><br>
+  <a href="https://www.linkedin.com/in/marc-saribay-40057717b/">View My LinkedIn Profile</a>
+  <!-- <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script> -->
+  <!-- <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="marc-saribay-40057717b"><a class="LI-simple-link" href='https://ph.linkedin.com/in/marc-saribay-40057717b?trk=profile-badge'>Marc Saribay</a></div> -->
   <!-- <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="marc-saribay-40057717b"><a class="LI-simple-link" href='https://ph.linkedin.com/in/marc-saribay-40057717b?trk=profile-badge'>Marc Saribay</a></div> -->
   
 theme: jekyll-theme-minimal
