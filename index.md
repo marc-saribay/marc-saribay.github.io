@@ -31,9 +31,6 @@
 
 ### Work Projects
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="marc-saribay-40057717b"><a class="LI-simple-link" href='https://ph.linkedin.com/in/marc-saribay-40057717b?trk=profile-badge'>Marc Saribay</a></div>
-
 - [Avia FileLoaders (C# to Java Springboot port, PCF, Jenkins, MSSQL Server)](http://example.com/)
 - [API Integration (IBM DataPower, IBM API Connect, Shell Scripting, REST API)](http://example.com/)
 - [Shake N Scan Web (Java/J2EE)](http://example.com/)
