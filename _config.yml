@@ -10,7 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <!-- <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
   <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="marc-saribay-40057717b"><a class="LI-simple-link" href='https://ph.linkedin.com/in/marc-saribay-40057717b?trk=profile-badge'>Marc Saribay</a></div>
   <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="marc-saribay-40057717b"><a class="LI-simple-link" href='https://ph.linkedin.com/in/marc-saribay-40057717b?trk=profile-badge'>Marc Saribay</a></div> -->
-  <div><a href="https://www.youracclaim.com/badges/b105b73e-b071-46e5-b077-7e6fdebda0d2/linked_in"><img src="/images/azure-fundamentals-600x600.png" alt="Azure Fundamentals" width="50%" height="50%"></a><a href="https://www.youracclaim.com/badges/1ce1a139-24d3-4819-be70-41e8f81ef048/linked_in"><img src="/images/azure-data-fundamentals-600x600.png" alt="Azure Data Fundamentals" width="50%" height="50%"></a></div>
+  <div><a href="https://www.youracclaim.com/badges/1ce1a139-24d3-4819-be70-41e8f81ef048/linked_in"><img src="/images/azure-fundamentals-600x600.png" alt="Azure Fundamentals" width="50%" height="50%"></a><a href="https://www.youracclaim.com/badges/b105b73e-b071-46e5-b077-7e6fdebda0d2/linked_in"><img src="/images/azure-data-fundamentals-600x600.png" alt="Azure Data Fundamentals" width="50%" height="50%"></a></div>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
