@@ -31,6 +31,8 @@
 
 ### Work Projects
 
+- [Azure Cloud Migration (Microsoft Certifications - Azure Fundamentals, Azure Data Fundamentals)](http://example.com/)
+- [Java Kafka Producer (Java, Kafka)](http://example.com/)
 - [Avia FileLoaders (C# to Java Springboot port, PCF, Jenkins, MSSQL Server)](http://example.com/)
 - [API Integration (IBM DataPower, IBM API Connect, Shell Scripting, REST API)](http://example.com/)
 - [Shake N Scan Web (Java/J2EE)](http://example.com/)
