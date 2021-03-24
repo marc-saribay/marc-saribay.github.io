@@ -10,8 +10,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <!-- <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
   <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="marc-saribay-40057717b"><a class="LI-simple-link" href='https://ph.linkedin.com/in/marc-saribay-40057717b?trk=profile-badge'>Marc Saribay</a></div>
   <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="marc-saribay-40057717b"><a class="LI-simple-link" href='https://ph.linkedin.com/in/marc-saribay-40057717b?trk=profile-badge'>Marc Saribay</a></div> -->
-  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="marc-saribay-40057717b"><a class="LI-simple-link" href='https://ph.linkedin.com/in/marc-saribay-40057717b?trk=profile-badge'>Marc Saribay</a></div>
+  <div><img src="/images/azure-fundamentals-600x600.png" alt="Azure Fundamentals"></div>
+  <div><img src="/images/azure-data-fundamentals-600x600.png" alt="Azure Data Fundamentals"></div>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
